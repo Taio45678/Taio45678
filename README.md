@@ -1,6 +1,6 @@
 ### 
 Bienvenido a mi perfil 🚀🚀
-soy Casagrande Claudio un estudiante de el bootcamp de soyHenry, estoy proximo a egresarme por lo tanto ya estoy en la busqueda de mi trabajo ✌
+soy Casagrande Claudio un estudiante de el bootcamp de soyHenry, estoy egresado por lo tanto ya estoy en la busqueda de mi trabajo ✌
 
 💻 Soy un desarrollador Full Stack con experiencia en las siguientes tecnologías:
 
