@@ -10,7 +10,7 @@ soy Casagrande Claudio un estudiante de el bootcamp de soyHenry, estoy egresado 
 
 🗄️ Base de datos: PostgreSQL, MySQL, Sequelize.
 
-Trabajé en la creación de una interfaz de usuario para dentistas que buscaba hacerla más cómoda y comprensible para los usuarios utilizando la metodología ágil Scrum.
+Actualmente me encuentro realizando un proyecto en el cual su proposito es poder brindarle a toda persona profesional la capacidad de poder crearse su propio Portfolio de manera facil. 
 
 🚀 Me apasiona trabajar en proyectos con una visión y compromiso “de punta a punta” y tengo un interés constante en aprender y mejorar mis habilidades, incluyendo mi experiencia en Scrum como metodología ágil.
 
